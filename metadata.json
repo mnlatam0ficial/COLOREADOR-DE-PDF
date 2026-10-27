@@ -1,0 +1,8 @@
+{
+  "name": "PDF a Color AI",
+  "description": "Transforma, restaura y colorea documentos PDF e imágenes en blanco y negro a versiones a todo color con inteligencia artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
